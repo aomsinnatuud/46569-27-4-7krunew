@@ -1,5 +1,4 @@
-celsius = 25  # สามารถเปลี่ยนค่าได้เพื่อทดสอบ
-
+celsius = 18
 if celsius <= 0:
     print("Freezing")
 elif celsius <= 15:

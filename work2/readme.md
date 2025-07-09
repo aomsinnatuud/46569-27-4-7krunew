@@ -1,1 +1,0 @@
-ฝึกเขียน python โดยใช้ if else elif
